@@ -6,3 +6,4 @@ All b-libs in one place
 - [b-accordion](https://github.com/bornfight/b-accordion/)
 - [b-lib-boilerplate](https://github.com/bornfight/b-lib-boilerplate/)
 - [b-scroll-lock](https://github.com/bornfight/b-scroll-lock/)
+- [b-scroll-to](https://github.com/bornfight/b-scroll-to/)
