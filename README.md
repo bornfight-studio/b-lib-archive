@@ -8,3 +8,4 @@ All b-libs in one place
 - [b-scroll-lock](https://github.com/bornfight/b-scroll-lock/)
 - [b-scroll-to](https://github.com/bornfight/b-scroll-to/)
 - [b-scroll-next](https://github.com/bornfight/b-scroll-next/)
+- [b-video-player](https://github.com/bornfight/b-video-player/)
